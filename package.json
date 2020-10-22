@@ -1,7 +1,7 @@
 {
   "name": "com.cheerylee.unity-vcs-info",
   "version": "1.0.0",
-  "displayName": "Untiy VCS Info",
+  "displayName": "Unity VCS Info",
   "description": "Shows VCS info in the toolbar.\n\nThanks to Marijn Zwemmer (https://github.com/marijnz/unity-toolbar-extender) for obtaining toolbar callbacks.",
   "unity": "2019.1",
   "keywords": [
